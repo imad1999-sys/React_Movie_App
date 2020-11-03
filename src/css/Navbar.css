@@ -1,0 +1,17 @@
+.collapse .navbar-nav{
+    margin-left: 800px;
+}
+.navbar-brand {
+    margin-left: 50px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+.collapse .navbar-nav a{
+    font-size: 100px;
+}
+a .imdb{
+    color: #fbc531;
+}
+a .react{
+    color: #00cec9;
+}
